@@ -1,7 +1,7 @@
 # Cleaning-Data-Project Steps
 
 Please Note: make sure that the 'UCI HAR Dataset' dataset provided as part of the project is unzipped in your working directory folder.<br />
-After this has been done, please run the R_Analysis.R file in the R-Studio with command source("<path>\R_Analysis.R"); where <path> denotes the path where R_Analysis.R file has been placed by you.<br />
+After this has been done, please run the R_Analysis.R file in the R-Studio with command source("*path*\R_Analysis.R"); where *path* denotes the path where R_Analysis.R file has been placed by you.<br />
 
 ##How the code works.
 
