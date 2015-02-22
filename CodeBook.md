@@ -1,15 +1,15 @@
 ###Column label reference<br />
-t- These are time domain signals captured at 50Hz.<br />
-f- These are signals to which FFT (Fast Fourier Transform) was applied.<br />
-Acc- Accelerometer raw signals<br />
-Gyro- Gyrometer raw signals.<br />
-BodyAcc- Body acceleration signals.<br />
-GravityAcc- Gravity acceleration signals.<br />
-mean()- Calculate mean value.<br />
-std()- Calculate standard deviation.<br />
-"-X,-Y or -Z"- Used to denote signals in the X, Y or Z directions. <br />
-Jerk- Jerk signals.<br />
-Mag- Magnitude of these signals were calculated using the Euclidean norm.<br />
+**t**- These are time domain signals captured at 50Hz.<br />
+**f**- These are signals to which FFT (Fast Fourier Transform) was applied.<br />
+**Acc**- Accelerometer raw signals<br />
+**Gyro**- Gyrometer raw signals.<br />
+**BodyAcc**- Body acceleration signals.<br />
+**GravityAcc**- Gravity acceleration signals.<br />
+**mean()**- Calculate mean value.<br />
+**std()**- Calculate standard deviation.<br />
+**-X,-Y or -Z**- Used to denote signals in the X, Y or Z directions. <br />
+**Jerk**- Jerk signals.<br />
+**Mag**- Magnitude of these signals were calculated using the Euclidean norm.<br />
 <br />
 <br />
 
