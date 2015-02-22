@@ -2,7 +2,7 @@
 
 Please Note: make sure that the 'UCI HAR Dataset' dataset provided as part of the project is unzipped in your working directory folder.<br />
 After this has been done, please run the Run_Analysis.R file in the R-Studio with command source("*path*\Run_Analysis.R"); where *path* denotes the path where Run_Analysis.R file has been placed by you.<br />
-
+**Please install package dplyr before running this code (if not already done so) by running command install.packages("dplyr")**<br /><br />
 ##How the code works.
 
 *Step1: Get the current working directory and set this in 'workdir' variable.<br />
